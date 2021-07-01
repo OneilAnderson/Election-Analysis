@@ -9,7 +9,7 @@ Those tasks include:
 4.Counting the percentage of votes each candidate won
 5.Stating the winner of the election based on popular vote
 
-##Resources
+## Resources
 Data Source - election_results.csv
 Software - Python 3.9.5, Visual Studio Code, 1.38.1
 
