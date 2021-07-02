@@ -73,3 +73,6 @@ The analysis of this elections shows:
   -Diana DeGette, who received 73.8% of the vote with 272,892 votes.
   
 ## Summary 
+
+ The script that was created for this tasks fully explains the county and candidate information for this election. However, if the election committee wanted to modify this script for a different election, there are a few ways it could be changed. One way to modify the script for a different election is to change the file_to_path information to load in a different set of data. This can allow the program to run a similar set of data with different outcomes for candidates and counties. Another way of modifying the script is to add a new variable, such as the Party the candidate represents. For example, if the political parties are locate in a column in our data, we could change to include it with candidate_name and pull the data when the candidates are pulled. these are two good ways the script could be modified for a different election.
+
