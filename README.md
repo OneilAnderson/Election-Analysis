@@ -78,7 +78,7 @@ The analysis of this elections shows:
  
  ![File_to_load](https://user-images.githubusercontent.com/85713532/124232639-ecc7a080-dadf-11eb-9c26-561c3ac06bda.png)
  
- Another way of modifying the script is to add a new variable, such as the Party the candidate represents. For example, if the political parties are locate in a column in our data, we could change to include it with candidate_name and pull the data when the candidates are pulled. These are two good ways the script could be modified for a different election.
+ Another way of modifying the script is if there is a tie in the election , we can add a piece of code to our If function located below. We can add an Else statement and a print that states that both candidiates tied with a certain amount of votes. 
 
 
-![Candidate](https://user-images.githubusercontent.com/85713532/124232653-f0f3be00-dadf-11eb-975f-c765b54bfcc1.png)
+![Tie](https://user-images.githubusercontent.com/85713532/124234326-e33f3800-dae1-11eb-97cf-f738702391c5.png)
